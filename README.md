@@ -3,7 +3,7 @@
 
 <h1 align="center">SM-POS</h1>
 
-<a href="https://github.com/sm-software-colombia/sm/blob/main/img/logoPOS2.png" id="logo"></a>
+<a href="https://sm-software-colombia.github.io/sm/img/logoPOS2.png" id="logo"></a>
 <br/>
 
 <p align="center">
